@@ -1,0 +1,26 @@
+{
+  "id": "ee322134-0d2a-4cee-af26-c0b5b2ec5418",
+  "name": "HttpDemo",
+  "publisher": "Saurav Dhyani",
+  "version": "1.0.0.0",
+  "brief": "This Repo Contain Example for HTTP Calls from AL Code.",
+  "description": "",
+  "privacyStatement": "https://www.sauravdhyani.com/",
+  "EULA": "https://www.sauravdhyani.com/",
+  "help": "https://www.sauravdhyani.com/",
+  "url": "https://www.sauravdhyani.com/",
+  "logo": "image/sauravdhyani.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://HttpDemo.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
